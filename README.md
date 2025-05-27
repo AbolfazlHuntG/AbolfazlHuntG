@@ -15,11 +15,11 @@
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
 
 ## 📈 GitHub Stats
-![Abolfazl's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Abolfazl's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbolfazlHuntG&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbolfazlHuntG&layout=compact&theme=radical)
 
 ## 🤝 Connect with Me
-- [Telegram](https://t.me/YOUR_USERNAME)
+- [Telegram](https://t.me/AbolfazlHuntG)
 - [Email](mailto:you@example.com)
 
 ---
